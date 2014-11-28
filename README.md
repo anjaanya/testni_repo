@@ -1,4 +1,4 @@
 testni_repo
 ===========
 
-Testno skladiÅ¡Äe
+Testno skladišèe
